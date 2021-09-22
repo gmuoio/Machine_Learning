@@ -1,2 +1,2 @@
-# Machine Learning
+# Machine Learning project
 The main goal of the study is to create a predictive model that allows, given a collection of input variables, to predict the cost of selling a house in the Seattle area, more precisely in King County. The dataset used was downloaded from the Kaggle site and a KNIME workflow was developed through which different approaches and methods were applied in order to create a sufficiently valid regression model.
